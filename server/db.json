@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "ad": "lorem",
+      "soyad": "lorem",
+      "numara": "05455455555",
+      "adres": "lorem",
+      "şirket": "Ecodation",
+      "groupId": "3",
+      "id": 1
+    }
+  ],
+  "groups": [
+    {
+      "ad": "Aile",
+      "id": 1
+    },
+    {
+      "ad": "Okul",
+      "id": 2
+    },
+    {
+      "ad": "İş",
+      "id": 3
+    }
+  ]
+}
